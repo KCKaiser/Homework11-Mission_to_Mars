@@ -1,0 +1,43 @@
+img {
+    height: 100%;
+    width: 100%;
+    }
+
+body {
+    background-color: rgb(80, 0, 0);
+    }
+
+.container {
+    background-color: rgb(231, 226, 222);
+    border-color: white;
+    border-style: solid;
+
+}
+
+.jumbocontainer {
+    background-color: rgb(80, 0, 0);
+    border-style: none;
+ 
+}
+ 
+.jumbotron{
+    background-color: rgb(231, 226, 222);
+    color:  rgb(80, 0, 0);
+}
+
+h1 {
+    color:  rgb(80, 0, 0);
+}
+h2 {
+    color: rgb(80, 0, 0);
+}
+h3{
+    color: rgb(80, 0, 0);
+}
+.table {
+    color: rgb(231, 226, 222);
+}
+
+p {
+    font-size: 120%;
+}
